@@ -2,6 +2,17 @@
 
 안녕하세요. 스포카 코드 골프 2015 에 참여해주셔서 감사합니다. 스포카 코드 골프 2015는 주식회사 스포카에서 파이썬 개발자 여러분을 위해 준비한 작은 이벤트입니다.
 
+# [194 Bytes (Winner!)][pupu194]
+
+My submission to Spoqa CodeGolf 2015 at PyCon KR.
+
+* [pupu.py][pupu194] -- 194 bytes 제출 답안
+* [gen.py][generator] -- 답안 generator 코드.
+
+[pupu194]: https://github.com/wookayin/spoqa-pycon-2015-codegolf/blob/master/pupu.py
+[generator]: https://github.com/wookayin/spoqa-pycon-2015-codegolf/blob/master/gen.py
+
+
 # 문제
 
 도도의 마스코트 중 하나인 푸푸(pupu) 의 [아스키 아트][1] 를 표준 출력(stdout)으로 출력하는 [파이썬][2] 스크립트 파일을 가능한 한 짧게 작성해주세요.
